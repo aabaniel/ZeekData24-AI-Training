@@ -81,3 +81,9 @@ for name, df in datasets.items():
 protocol_unique_values = combined_unique_values("proto", df1, df2, df3)
 label_tactics = combined_unique_values("label_tactic", df1, df2, df3)
 attack_counts = combined_unique_values_with_counts("label_tactic", df1, df2, df3)
+
+column_name = "label_tactic"
+
+for name, df in datasets.items():
+    print(f"\n{name}")
+    print(df[column_name].value_counts(dropna=False))
