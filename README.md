@@ -2,6 +2,7 @@
 
 Source code, Models, and Datasets used in the research paper entitled:
 **Exploratory Data Analysis of UWF-ZeekData24 using Supervised Machine Learning and Deep Learning Techniques**
+by @aabaniel, @Disavowedd, and @jaybreezy
 
 ## Basic Introduction
 
