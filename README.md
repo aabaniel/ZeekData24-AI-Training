@@ -17,9 +17,9 @@ The Primary Dataset used was the accessible versions of UWF-ZeekData24 and suppl
 
 ### Dataset Iterations and Descriptions
 
-1st_Iteration: Datasets was made during the course of THES2, includes 15k MC, SMOTEN MC, Compiled Binary
+1st Iteration: Datasets was made during the course of THES2, includes 15k MC, SMOTEN MC, Compiled Binary
 
-2st_Iteration: Datasets was revised during the course of THES3 include the usage of different iterations of ZeekData24 which are ZeekData24Fall and ZeekData22Fall.
+2nd Iteration: Datasets was revised during the course of THES3 include the usage of different iterations of ZeekData24 which are ZeekData24Fall and ZeekData22Fall.
 
 ## Models
 
@@ -32,9 +32,9 @@ The Machine and Deep Learning Algorithms implemented in the project are as follo
 
 ### Model Iterations and Descriptions
 
-CTTHES2: Models were made during the course of THES2 including different hyperparameter tuning
+1st Iteration: Models were made during the course of THES2 including different hyperparameter tuning
 
-CTTHES3: Models were revised during the course of THES3 include readjustment of gridsearch parameters, standardization of matplt visualization results, and integration with google colab for faster training.
+2nd Iteration: Models were revised during the course of THES3 include readjustment of gridsearch parameters, standardization of matplt visualization results, and integration with google colab for faster training.
 
 ## Requirements
 
