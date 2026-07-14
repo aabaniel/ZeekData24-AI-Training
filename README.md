@@ -1,7 +1,8 @@
 # ZeekData24 Model Training and Testing
 
 Source code, Models, and Datasets used in the research paper entitled:
-**Exploratory Data Analysis of UWF-ZeekData24 using Supervised Machine Learning and Deep Learning Techniques**
+**Exploratory Data Analysis of UWF-ZeekData24 using Supervised Machine Learning and Deep Learning Techniques**.
+
 by @aabaniel, @Disavowedd, and @jaybreezy
 
 ## Basic Introduction
@@ -16,9 +17,9 @@ The Primary Dataset used was the accessible versions of UWF-ZeekData24 and suppl
 
 ### Dataset Iterations and Descriptions
 
-1st_Iteration: Datasets was made during the course of THES2, includes 15k MC, SMOTEN MC, Compiled Binary
+1st Iteration: Datasets was made during the course of THES2, includes 15k MC, SMOTEN MC, Compiled Binary
 
-2st_Iteration: Datasets was revised during the course of THES3 include the usage of different iterations of ZeekData24 which are ZeekData24Fall and ZeekData22Fall.
+2nd Iteration: Datasets was revised during the course of THES3 include the usage of different iterations of ZeekData24 which are ZeekData24Fall and ZeekData22Fall.
 
 ## Models
 
@@ -31,9 +32,9 @@ The Machine and Deep Learning Algorithms implemented in the project are as follo
 
 ### Model Iterations and Descriptions
 
-CTTHES2: Models were made during the course of THES2 including different hyperparameter tuning
+1st Iteration: Models were made during the course of THES2 including different hyperparameter tuning
 
-CTTHES3: Models were revised during the course of THES3 include readjustment of gridsearch parameters, standardization of matplt visualization results, and integration with google colab for faster training.
+2nd Iteration: Models were revised during the course of THES3 include readjustment of gridsearch parameters, standardization of matplt visualization results, and integration with google colab for faster training.
 
 ## Requirements
 
@@ -52,3 +53,8 @@ Note: Deep Learning model CNN is coded to run with GPU, otherwise the Machine Le
 All models were implemented within a Python-based Jupyter Notebook.
 
 **To run, click on the 'run' button in the toolbar of the Jupyter Notebook UI**
+
+## AI Usage Declaration
+
+During the Pre-Training phase of this thesis, We utilized ChatGPT, Google Gemini, and Github Copilot to assist in program debugging and Google Colab setup. No AI was used in the creation of the research paper itself.
+
