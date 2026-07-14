@@ -10,7 +10,7 @@ This study presents an **exploratory data analysis (EDA) on the UWF-ZeekData24 d
 
 ## Datasets
 
-The Primary Dataset used was the accessible version of the UWF-ZeekData24 and supplementary Datasets such as UWF-ZeekData24Fall and UWF-ZeekData22Fall
+The Primary Dataset used was the accessible versions of UWF-ZeekData24 and supplementary datasets such as UWF-ZeekData24Fall and UWF-ZeekData22Fall
 
 - The UWF-ZeekData24, UWF-ZeekData24Fall, and UWF-ZeekData22Fall datasets are available in: https://datasets.uwf.edu
 
