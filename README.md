@@ -9,6 +9,8 @@ by @aabaniel, @Disavowedd, and @jaybreezy
 
 This study presents an **exploratory data analysis (EDA) on the UWF-ZeekData24 dataset, for which there is limited empirical evidence, to evaluate its capabilities in detecting network intrusions and anomalies.** Several supervised machine learning and deep learning models will be built through training, validation and evaluation of the performance using metrics observed in existing machine learning based-IDS and NIDS such as accuracy, recall, precision, F1-Score, and false positive rate. The research will utilize **Support Vector Machines, Random Forests, Gradient Boosting Trees, and Convolutional Neural Networks** to analyze and classify network traffic data. Lastly, best performing models will be tested on unseen data followed by the performance evaluation using the same metrics mentioned.
 
+Primary Reference: Elam, M., Mink, D., Bagui, S. S., Plenkers, R., & Bagui, S. C. (2025). Introducing UWF-ZeekData24: An Enterprise MITRE ATT&CK Labeled Network Attack Traffic Dataset for Machine Learning/AI. Data, 10(5), 59. https://doi.org/10.3390/data10050059
+
 ## Datasets
 
 The Primary Dataset used was the accessible versions of UWF-ZeekData24 and supplementary datasets such as UWF-ZeekData24Fall and UWF-ZeekData22Fall
