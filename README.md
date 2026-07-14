@@ -52,3 +52,8 @@ Note: Deep Learning model CNN is coded to run with GPU, otherwise the Machine Le
 All models were implemented within a Python-based Jupyter Notebook.
 
 **To run, click on the 'run' button in the toolbar of the Jupyter Notebook UI**
+
+## AI Usage Declaration
+
+During the Pre-Training phase of this thesis, We utilized ChatGPT, Google Gemini, and Github Copilot to assist in program debugging and Google Colab setup. No AI was used in the creation of the research paper itself.
+
