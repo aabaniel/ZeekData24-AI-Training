@@ -58,5 +58,5 @@ All models were implemented within a Python-based Jupyter Notebook.
 
 ## AI Usage Declaration
 
-During the Pre-Training phase of this thesis, We utilized ChatGPT, Google Gemini, and Github Copilot to assist in program debugging and Google Colab setup. No AI was used in the creation of the research paper itself.
+During the Pre-Training phase of this thesis, We utilized ChatGPT and Google Gemini to assist in program debugging and Google Collab setup.
 
